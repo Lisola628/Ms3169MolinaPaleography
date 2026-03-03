@@ -1,0 +1,230 @@
+[
+  {
+    "file": "00preface.jpg",
+    "key": "00preface",
+    "label": "Preface / BNE Label",
+    "section": "prelim"
+  },
+  {
+    "file": "01R.jpg",
+    "key": "01R",
+    "label": "f. Ir–Iv — Ownership & Marginalia",
+    "section": "prelim"
+  },
+  {
+    "file": "02R.jpg",
+    "key": "02R",
+    "label": "f. 1r–1v — \"Yngas\" / 1555 notes",
+    "section": "prelim"
+  },
+  {
+    "file": "03R.jpg",
+    "key": "03R",
+    "label": "f. 2r–2v — RELACION title page",
+    "section": "molina"
+  },
+  {
+    "file": "04R.jpg",
+    "key": "04R",
+    "label": "f. 3r–3v",
+    "section": "molina"
+  },
+  {
+    "file": "05R.jpg",
+    "key": "05R",
+    "label": "f. 4r–4v",
+    "section": "molina"
+  },
+  {
+    "file": "06R.jpg",
+    "key": "06R",
+    "label": "f. 5r–5v",
+    "section": "molina"
+  },
+  {
+    "file": "07R.jpg",
+    "key": "07R",
+    "label": "f. 6r–6v",
+    "section": "molina"
+  },
+  {
+    "file": "08R.jpg",
+    "key": "08R",
+    "label": "f. 7r–7v",
+    "section": "molina"
+  },
+  {
+    "file": "09R.jpg",
+    "key": "09R",
+    "label": "f. 8r–8v",
+    "section": "molina"
+  },
+  {
+    "file": "10R.jpg",
+    "key": "10R",
+    "label": "f. 9r–9v",
+    "section": "molina"
+  },
+  {
+    "file": "11R.jpg",
+    "key": "11R",
+    "label": "f. 10r–10v",
+    "section": "molina"
+  },
+  {
+    "file": "12R.jpg",
+    "key": "12R",
+    "label": "f. 11r–11v",
+    "section": "molina"
+  },
+  {
+    "file": "13R.jpg",
+    "key": "13R",
+    "label": "f. 12r–12v",
+    "section": "molina"
+  },
+  {
+    "file": "14R.jpg",
+    "key": "14R",
+    "label": "f. 13r–13v",
+    "section": "molina"
+  },
+  {
+    "file": "15R.jpg",
+    "key": "15R",
+    "label": "f. 14r–14v",
+    "section": "molina"
+  },
+  {
+    "file": "16R.jpg",
+    "key": "16R",
+    "label": "f. 15r–15v",
+    "section": "molina"
+  },
+  {
+    "file": "17R.jpg",
+    "key": "17R",
+    "label": "f. 16r–16v",
+    "section": "molina"
+  },
+  {
+    "file": "18R.jpg",
+    "key": "18R",
+    "label": "f. 17r–17v",
+    "section": "molina"
+  },
+  {
+    "file": "19R.jpg",
+    "key": "19R",
+    "label": "f. 18r–18v",
+    "section": "molina"
+  },
+  {
+    "file": "20R.jpg",
+    "key": "20R",
+    "label": "f. 19r–19v",
+    "section": "molina"
+  },
+  {
+    "file": "21R.jpg",
+    "key": "21R",
+    "label": "f. 20r–20v",
+    "section": "molina"
+  },
+  {
+    "file": "22R.jpg",
+    "key": "22R",
+    "label": "f. 21r–21v",
+    "section": "molina"
+  },
+  {
+    "file": "23R.jpg",
+    "key": "23R",
+    "label": "f. 22r–22v",
+    "section": "molina"
+  },
+  {
+    "file": "24R.jpg",
+    "key": "24R",
+    "label": "f. 23r–23v",
+    "section": "molina"
+  },
+  {
+    "file": "25R.jpg",
+    "key": "25R",
+    "label": "f. 24r–24v",
+    "section": "molina"
+  },
+  {
+    "file": "26R.jpg",
+    "key": "26R",
+    "label": "f. 25r–25v",
+    "section": "molina"
+  },
+  {
+    "file": "27R.jpg",
+    "key": "27R",
+    "label": "f. 26r–26v",
+    "section": "molina"
+  },
+  {
+    "file": "28R.jpg",
+    "key": "28R",
+    "label": "f. 27r–27v",
+    "section": "molina"
+  },
+  {
+    "file": "29R.jpg",
+    "key": "29R",
+    "label": "f. 28r–28v",
+    "section": "molina"
+  },
+  {
+    "file": "30R.jpg",
+    "key": "30R",
+    "label": "f. 29r–29v",
+    "section": "molina"
+  },
+  {
+    "file": "31R.jpg",
+    "key": "31R",
+    "label": "f. 30r–30v",
+    "section": "molina"
+  },
+  {
+    "file": "32R.jpg",
+    "key": "32R",
+    "label": "f. 31r–31v",
+    "section": "molina"
+  },
+  {
+    "file": "33R.jpg",
+    "key": "33R",
+    "label": "f. 32r–32v",
+    "section": "molina"
+  },
+  {
+    "file": "34R.jpg",
+    "key": "34R",
+    "label": "f. 33r–33v",
+    "section": "molina"
+  },
+  {
+    "file": "35R.jpg",
+    "key": "35R",
+    "label": "f. 34r–34v",
+    "section": "molina"
+  },
+  {
+    "file": "36R.jpg",
+    "key": "36R",
+    "label": "f. 35r–35v",
+    "section": "molina"
+  },
+  {
+    "file": "37R.jpg",
+    "key": "37R",
+    "label": "f. 36r–36v — \"Se acabo aqui assi yndecisamente\"",
+    "section": "molina"
+  }
+]
