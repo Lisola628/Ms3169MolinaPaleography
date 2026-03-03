@@ -104,7 +104,7 @@
 
 <div class="toolbar">
   <button class="nav-btn" id="prevBtn" onclick="navigate(-1)">&#8592;</button>
-  <span class="counter" id="counter">1 / 38</span>
+  <span class="counter" id="counter">— / —</span>
   <button class="nav-btn" id="nextBtn" onclick="navigate(1)">&#8594;</button>
 
   <div class="sep"></div>
@@ -138,7 +138,7 @@
 
 <div class="section-legend">
   <span><span class="dot" style="background:var(--prelim)"></span>Preliminary pages</span>
-  <span><span class="dot" style="background:var(--molina)"></span>Molina text (ff. 2r–36v)</span>
+  <span><span class="dot" style="background:var(--molina)"></span>Molina text (ff. 2r–36v) &amp; Tratado</span>
   <span style="margin-left:auto; font-size:0.7rem">Click image to zoom &nbsp;|&nbsp; ← → keys to navigate</span>
 </div>
 
@@ -202,7 +202,7 @@ function showPage(idx) {
   const p = manifest[idx];
   document.getElementById('mainImg').src = p.file;
   document.getElementById('folioLabel').textContent = p.label;
-  document.getElementById('counter').textContent = `${idx+1} / ${manifest.length}`;
+  document.getElementById('counter').textContent = (idx+1) + ' / ' + manifest.length;
   document.getElementById('prevBtn').disabled = idx === 0;
   document.getElementById('nextBtn').disabled = idx === manifest.length - 1;
   document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
