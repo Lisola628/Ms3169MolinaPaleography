@@ -1,5 +1,11 @@
 [
   {
+    "file": "00-cover.jpeg",
+    "key": "00cover",
+    "label": "Front Cover",
+    "section": "prelim"
+  },
+  {
     "file": "00-preface.jpg",
     "key": "00preface",
     "label": "Preface \u2014 Pertenece a la Bibliotheca del R.mo Florez",
